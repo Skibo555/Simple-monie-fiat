@@ -1,0 +1,1293 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "code_2char": "AF",
+            "code_3char": "AFG",
+            "code_numeric": 4,
+            "dial_code": 93
+        },
+        {
+            "name": "Albania",
+            "code_2char": "AL",
+            "code_3char": "ALB",
+            "code_numeric": 8,
+            "dial_code": 355
+        },
+        {
+            "name": "Algeria",
+            "code_2char": "DZ",
+            "code_3char": "DZA",
+            "code_numeric": 12,
+            "dial_code": 213
+        },
+        {
+            "name": "American Samoa",
+            "code_2char": "AS",
+            "code_3char": "ASM",
+            "code_numeric": 16,
+            "dial_code": 684
+        },
+        {
+            "name": "Andorra",
+            "code_2char": "AD",
+            "code_3char": "AND",
+            "code_numeric": 20,
+            "dial_code": 376
+        },
+        {
+            "name": "Angola",
+            "code_2char": "AO",
+            "code_3char": "AGO",
+            "code_numeric": 24,
+            "dial_code": 244
+        },
+        {
+            "name": "Anguilla",
+            "code_2char": "AI",
+            "code_3char": "AIA",
+            "code_numeric": 660,
+            "dial_code": 264
+        },
+        {
+            "name": "Antarctica",
+            "code_2char": "AQ",
+            "code_3char": "ATA",
+            "code_numeric": 10,
+            "dial_code": "N/A"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "code_2char": "AG",
+            "code_3char": "ATG",
+            "code_numeric": 28,
+            "dial_code": 268
+        },
+        {
+            "name": "Argentina",
+            "code_2char": "AR",
+            "code_3char": "ARG",
+            "code_numeric": 32,
+            "dial_code": 54
+        },
+        {
+            "name": "Armenia",
+            "code_2char": "AM",
+            "code_3char": "ARM",
+            "code_numeric": 51,
+            "dial_code": 374
+        },
+        {
+            "name": "Aruba",
+            "code_2char": "AW",
+            "code_3char": "ABW",
+            "code_numeric": 533,
+            "dial_code": 297
+        },
+        {
+            "name": "Australia",
+            "code_2char": "AU",
+            "code_3char": "AUS",
+            "code_numeric": 36,
+            "dial_code": 61
+        },
+        {
+            "name": "Austria",
+            "code_2char": "AT",
+            "code_3char": "AUT",
+            "code_numeric": 40,
+            "dial_code": 43
+        },
+        {
+            "name": "Azerbaijan",
+            "code_2char": "AZ",
+            "code_3char": "AZE",
+            "code_numeric": 31,
+            "dial_code": 994
+        },
+        {
+            "name": "Bahamas",
+            "code_2char": "BS",
+            "code_3char": "BHS",
+            "code_numeric": 44,
+            "dial_code": 242
+        },
+        {
+            "name": "Bahrain",
+            "code_2char": "BH",
+            "code_3char": "BHR",
+            "code_numeric": 48,
+            "dial_code": 973
+        },
+        {
+            "name": "Bangladesh",
+            "code_2char": "BD",
+            "code_3char": "BGD",
+            "code_numeric": 50,
+            "dial_code": 880
+        },
+        {
+            "name": "Barbados",
+            "code_2char": "BB",
+            "code_3char": "BRB",
+            "code_numeric": 52,
+            "dial_code": 246
+        },
+        {
+            "name": "Belarus",
+            "code_2char": "BY",
+            "code_3char": "BLR",
+            "code_numeric": 112,
+            "dial_code": 375
+        },
+        {
+            "name": "Belgium",
+            "code_2char": "BE",
+            "code_3char": "BEL",
+            "code_numeric": 56,
+            "dial_code": 32
+        },
+        {
+            "name": "Belize",
+            "code_2char": "BZ",
+            "code_3char": "BLZ",
+            "code_numeric": 84,
+            "dial_code": 501
+        },
+        {
+            "name": "Benin",
+            "code_2char": "BJ",
+            "code_3char": "BEN",
+            "code_numeric": 204,
+            "dial_code": 229
+        },
+        {
+            "name": "Bermuda",
+            "code_2char": "BM",
+            "code_3char": "BMU",
+            "code_numeric": 60,
+            "dial_code": 441
+        },
+        {
+            "name": "Bhutan",
+            "code_2char": "BT",
+            "code_3char": "BTN",
+            "code_numeric": 64,
+            "dial_code": 975
+        },
+        {
+            "name": "Bolivia",
+            "code_2char": "BO",
+            "code_3char": "BOL",
+            "code_numeric": 68,
+            "dial_code": 591
+        },
+        {
+            "name": "Bonaire, Sint Eustatius, and Saba",
+            "code_2char": "BQ",
+            "code_3char": "BES",
+            "code_numeric": 535,
+            "dial_code": 599
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "code_2char": "BA",
+            "code_3char": "BIH",
+            "code_numeric": 70,
+            "dial_code": 387
+        },
+        {
+            "name": "Botswana",
+            "code_2char": "BW",
+            "code_3char": "BWA",
+            "code_numeric": 72,
+            "dial_code": 267
+        },
+        {
+            "name": "Bouvet Island",
+            "code_2char": "BV",
+            "code_3char": "BVT",
+            "code_numeric": 74,
+            "dial_code": "N/A"
+        },
+        {
+            "name": "Brazil",
+            "code_2char": "BR",
+            "code_3char": "BRA",
+            "code_numeric": 76,
+            "dial_code": 55
+        },
+        {
+            "name": "British Indian Ocean Territory",
+            "code_2char": "IO",
+            "code_3char": "IOT",
+            "code_numeric": 86,
+            "dial_code": 246
+        },
+        {
+            "name": "British Virgin Islands",
+            "code_2char": "VG",
+            "code_3char": "VGB",
+            "code_numeric": 92,
+            "dial_code": 1
+        },
+        {
+            "name": "Brunei Darussalam",
+            "code_2char": "BN",
+            "code_3char": "BRN",
+            "code_numeric": 96,
+            "dial_code": 673
+        },
+        {
+            "name": "Bulgaria",
+            "code_2char": "BG",
+            "code_3char": "BGR",
+            "code_numeric": 100,
+            "dial_code": 359
+        },
+        {
+            "name": "Burkina Faso",
+            "code_2char": "BF",
+            "code_3char": "BFA",
+            "code_numeric": 854,
+            "dial_code": 226
+        },
+        {
+            "name": "Burundi",
+            "code_2char": "BI",
+            "code_3char": "BDI",
+            "code_numeric": 108,
+            "dial_code": 257
+        },
+        {
+            "name": "Cambodia",
+            "code_2char": "KH",
+            "code_3char": "KHM",
+            "code_numeric": 116,
+            "dial_code": 855
+        },
+        {
+            "name": "Cameroon, United Republic of",
+            "code_2char": "CM",
+            "code_3char": "CMR",
+            "code_numeric": 120,
+            "dial_code": 237
+        },
+        {
+            "name": "Canada",
+            "code_2char": "CA",
+            "code_3char": "CAN",
+            "code_numeric": 124,
+            "dial_code": 1
+        },
+        {
+            "name": "Cape Verde Island",
+            "code_2char": "CV",
+            "code_3char": "CPV",
+            "code_numeric": 132,
+            "dial_code": 238
+        },
+        {
+            "name": "Cayman Islands",
+            "code_2char": "KY",
+            "code_3char": "CYM",
+            "code_numeric": 136,
+            "dial_code": 345
+        },
+        {
+            "name": "Central African Republic",
+            "code_2char": "CF",
+            "code_3char": "CAF",
+            "code_numeric": 140,
+            "dial_code": 236
+        },
+        {
+            "name": "Chad",
+            "code_2char": "TD",
+            "code_3char": "TCD",
+            "code_numeric": 148,
+            "dial_code": 235
+        },
+        {
+            "name": "Chile",
+            "code_2char": "CL",
+            "code_3char": "CHL",
+            "code_numeric": 152,
+            "dial_code": 56
+        },
+        {
+            "name": "China",
+            "code_2char": "CN",
+            "code_3char": "CHN",
+            "code_numeric": 156,
+            "dial_code": 86
+        },
+        {
+            "name": "Christmas Island",
+            "code_2char": "CX",
+            "code_3char": "CXR",
+            "code_numeric": 162,
+            "dial_code": 61
+        },
+        {
+            "name": "Cocos (Keeling) Islands",
+            "code_2char": "CC",
+            "code_3char": "CCK",
+            "code_numeric": 166,
+            "dial_code": 61
+        },
+        {
+            "name": "Colombia",
+            "code_2char": "CO",
+            "code_3char": "COL",
+            "code_numeric": 170,
+            "dial_code": 57
+        },
+        {
+            "name": "Comoros",
+            "code_2char": "KM",
+            "code_3char": "COM",
+            "code_numeric": 174,
+            "dial_code": 269
+        },
+        {
+            "name": "Congo",
+            "code_2char": "CG",
+            "code_3char": "COG",
+            "code_numeric": 178,
+            "dial_code": 242
+        },
+        {
+            "name": "Cook Islands",
+            "code_2char": "CK",
+            "code_3char": "COK",
+            "code_numeric": 184,
+            "dial_code": 682
+        },
+        {
+            "name": "Costa Rica",
+            "code_2char": "CR",
+            "code_3char": "CRI",
+            "code_numeric": 188,
+            "dial_code": 506
+        },
+        {
+            "name": "Côte d'Ivoire (Ivory Coast)",
+            "code_2char": "CI",
+            "code_3char": "CIV",
+            "code_numeric": 384,
+            "dial_code": "N/A"
+        },
+        {
+            "name": "Croatia",
+            "code_2char": "HR",
+            "code_3char": "HRV",
+            "code_numeric": 191,
+            "dial_code": 385
+        },
+        {
+            "name": "Cuba",
+            "code_2char": "CU",
+            "code_3char": "CUB",
+            "code_numeric": 192,
+            "dial_code": 53
+        },
+        {
+            "name": "Curaçao",
+            "code_2char": "CW",
+            "code_3char": "CUW",
+            "code_numeric": 531,
+            "dial_code": 599
+        },
+        {
+            "name": "Cyprus",
+            "code_2char": "CY",
+            "code_3char": "CYP",
+            "code_numeric": 196,
+            "dial_code": 357
+        },
+        {
+            "name": "Czech Republic",
+            "code_2char": "CZ",
+            "code_3char": "CZE",
+            "code_numeric": 203,
+            "dial_code": 420
+        },
+        {
+            "name": "Democratic Republic of the Congo",
+            "code_2char": "CD",
+            "code_3char": "COD",
+            "code_numeric": 180,
+            "dial_code": 243
+        },
+        {
+            "name": "Denmark",
+            "code_2char": "DK",
+            "code_3char": "DNK",
+            "code_numeric": 208,
+            "dial_code": 45
+        },
+        {
+            "name": "Djibouti",
+            "code_2char": "DJ",
+            "code_3char": "DJI",
+            "code_numeric": 262,
+            "dial_code": 253
+        },
+        {
+            "name": "Dominica",
+            "code_2char": "DM",
+            "code_3char": "DMA",
+            "code_numeric": 212,
+            "dial_code": 767
+        },
+        {
+            "name": "Dominican Republic",
+            "code_2char": "DO",
+            "code_3char": "DOM",
+            "code_numeric": 214,
+            "dial_code": 809
+        },
+        {
+            "name": "Ecuador",
+            "code_2char": "EC",
+            "code_3char": "ECU",
+            "code_numeric": 218,
+            "dial_code": 593
+        },
+        {
+            "name": "Egypt",
+            "code_2char": "EG",
+            "code_3char": "EGY",
+            "code_numeric": 818,
+            "dial_code": 20
+        },
+        {
+            "name": "El Salvador",
+            "code_2char": "SV",
+            "code_3char": "SLV",
+            "code_numeric": 222,
+            "dial_code": 503
+        },
+        {
+            "name": "Equatorial Guinea",
+            "code_2char": "GQ",
+            "code_3char": "GNQ",
+            "code_numeric": 226,
+            "dial_code": 240
+        },
+        {
+            "name": "Eritrea",
+            "code_2char": "ER",
+            "code_3char": "ERI",
+            "code_numeric": 232,
+            "dial_code": 291
+        },
+        {
+            "name": "Estonia",
+            "code_2char": "EE",
+            "code_3char": "EST",
+            "code_numeric": 233,
+            "dial_code": 372
+        },
+        {
+            "name": "Eswatini",
+            "code_2char": "SZ",
+            "code_3char": "SWZ",
+            "code_numeric": 748,
+            "dial_code": 268
+        },
+        {
+            "name": "Ethiopia",
+            "code_2char": "ET",
+            "code_3char": "ETH",
+            "code_numeric": 231,
+            "dial_code": 251
+        },
+        {
+            "name": "Falkland Islands (Malvinas)",
+            "code_2char": "FK",
+            "code_3char": "FLK",
+            "code_numeric": 238,
+            "dial_code": 500
+        },
+        {
+            "name": "Faroe Islands",
+            "code_2char": "FO",
+            "code_3char": "FRO",
+            "code_numeric": 234,
+            "dial_code": 298
+        },
+        {
+            "name": "Fiji",
+            "code_2char": "FJ",
+            "code_3char": "FJI",
+            "code_numeric": 242,
+            "dial_code": 679
+        },
+        {
+            "name": "Finland",
+            "code_2char": "FI",
+            "code_3char": "FIN",
+            "code_numeric": 246,
+            "dial_code": 358
+        },
+        {
+            "name": "France",
+            "code_2char": "FR",
+            "code_3char": "FRA",
+            "code_numeric": 250,
+            "dial_code": 33
+        },
+        {
+            "name": "France,Metropolitan",
+            "code_2char": "FX",
+            "code_3char": "FXX",
+            "code_numeric": 249,
+            "dial_code": null
+        },
+        {
+            "name": "French Guiana",
+            "code_2char": "GF",
+            "code_3char": "GUF",
+            "code_numeric": 254,
+            "dial_code": 594
+        },
+        {
+            "name": "French Polynesia",
+            "code_2char": "PF",
+            "code_3char": "PYF",
+            "code_numeric": 258,
+            "dial_code": 689
+        },
+        {
+            "name": "French Southern Territories",
+            "code_2char": "TF",
+            "code_3char": "ATF",
+            "code_numeric": 260,
+            "dial_code": null
+        },
+        {
+            "name": "Gabon",
+            "code_2char": "GA",
+            "code_3char": "GAB",
+            "code_numeric": 266,
+            "dial_code": 241
+        },
+        {
+            "name": "Gambia",
+            "code_2char": "GM",
+            "code_3char": "GMB",
+            "code_numeric": 270,
+            "dial_code": 220
+        },
+        {
+            "name": "Georgia",
+            "code_2char": "GE",
+            "code_3char": "GEO",
+            "code_numeric": 268,
+            "dial_code": 995
+        },
+        {
+            "name": "Germany",
+            "code_2char": "DE",
+            "code_3char": "DEU",
+            "code_numeric": 276,
+            "dial_code": 49
+        },
+        {
+            "name": "Ghana",
+            "code_2char": "GH",
+            "code_3char": "GHA",
+            "code_numeric": 288,
+            "dial_code": 233
+        },
+        {
+            "name": "Gibralter",
+            "code_2char": "GI",
+            "code_3char": "GIB",
+            "code_numeric": 292,
+            "dial_code": 350
+        },
+        {
+            "name": "Greece",
+            "code_2char": "GR",
+            "code_3char": "GRC",
+            "code_numeric": 300,
+            "dial_code": 30
+        },
+        {
+            "name": "Greenland",
+            "code_2char": "GL",
+            "code_3char": "GRL",
+            "code_numeric": 304,
+            "dial_code": 299
+        },
+        {
+            "name": "Grenada",
+            "code_2char": "GD",
+            "code_3char": "GRD",
+            "code_numeric": 308,
+            "dial_code": 473
+        },
+        {
+            "name": "Guadeloupe",
+            "code_2char": "GP",
+            "code_3char": "GLP",
+            "code_numeric": 312,
+            "dial_code": 590
+        },
+        {
+            "name": "Guam",
+            "code_2char": "GU",
+            "code_3char": "GUM",
+            "code_numeric": 316,
+            "dial_code": 671
+        },
+        {
+            "name": "Guatemala",
+            "code_2char": "GT",
+            "code_3char": "GTM",
+            "code_numeric": 320,
+            "dial_code": 502
+        },
+        {
+            "name": "Guinea",
+            "code_2char": "GN",
+            "code_3char": "GIN",
+            "code_numeric": 324,
+            "dial_code": 224
+        },
+        {
+            "name": "Guinea-Bissau",
+            "code_2char": "GW",
+            "code_3char": "GNB",
+            "code_numeric": 624,
+            "dial_code": 245
+        },
+        {
+            "name": "Guyana",
+            "code_2char": "GY",
+            "code_3char": "GUY",
+            "code_numeric": 328,
+            "dial_code": 592
+        },
+        {
+            "name": "Haiti",
+            "code_2char": "HT",
+            "code_3char": "HTI",
+            "code_numeric": 332,
+            "dial_code": 509
+        },
+        {
+            "name": "Heard and McDonald Islands",
+            "code_2char": "HM",
+            "code_3char": "HMD",
+            "code_numeric": 334,
+            "dial_code": null
+        },
+        {
+            "name": "Holy See (Vatican City State)",
+            "code_2char": "VA",
+            "code_3char": "VAT",
+            "code_numeric": 336,
+            "dial_code": 373
+        },
+        {
+            "name": "Honduras",
+            "code_2char": "HN",
+            "code_3char": "HND",
+            "code_numeric": 340,
+            "dial_code": 504
+        },
+        {
+            "name": "Hong Kong",
+            "code_2char": "HK",
+            "code_3char": "HKG",
+            "code_numeric": 344,
+            "dial_code": 852
+        },
+        {
+            "name": "Hungary",
+            "code_2char": "HU",
+            "code_3char": "HUN",
+            "code_numeric": 348,
+            "dial_code": 36
+        },
+        {
+            "name": "Iceland",
+            "code_2char": "IS",
+            "code_3char": "ISL",
+            "code_numeric": 352,
+            "dial_code": 354
+        },
+        {
+            "name": "India",
+            "code_2char": "IN",
+            "code_3char": "IND",
+            "code_numeric": 356,
+            "dial_code": 91
+        },
+        {
+            "name": "Indonesia",
+            "code_2char": "ID",
+            "code_3char": "IDN",
+            "code_numeric": 360,
+            "dial_code": 62
+        },
+        {
+            "name": "Iran, Islamic Republic of",
+            "code_2char": "IR",
+            "code_3char": "IRN",
+            "code_numeric": 364,
+            "dial_code": 98
+        },
+        {
+            "name": "Iraq",
+            "code_2char": "IQ",
+            "code_3char": "IRQ",
+            "code_numeric": 368,
+            "dial_code": 964
+        },
+        {
+            "name": "Ireland, Republic of",
+            "code_2char": "IE",
+            "code_3char": "IRL",
+            "code_numeric": 372,
+            "dial_code": 353
+        },
+        {
+            "name": "Isle of Man",
+            "code_2char": "IM",
+            "code_3char": "IMN",
+            "code_numeric": 833,
+            "dial_code": "44-1624"
+        },
+        {
+            "name": "Israel",
+            "code_2char": "IL",
+            "code_3char": "ISR",
+            "code_numeric": 376,
+            "dial_code": 972
+        },
+        {
+            "name": "Italy",
+            "code_2char": "IT",
+            "code_3char": "ITA",
+            "code_numeric": 380,
+            "dial_code": 39
+        },
+        {
+            "name": "Jamaica",
+            "code_2char": "JM",
+            "code_3char": "JAM",
+            "code_numeric": 388,
+            "dial_code": 876
+        },
+        {
+            "name": "Japan",
+            "code_2char": "JP",
+            "code_3char": "JPN",
+            "code_numeric": 392,
+            "dial_code": 81
+        },
+        {
+            "name": "Jordan",
+            "code_2char": "JO",
+            "code_3char": "JOR",
+            "code_numeric": 400,
+            "dial_code": 962
+        },
+        {
+            "name": "Kazakhstan",
+            "code_2char": "KZ",
+            "code_3char": "KAZ",
+            "code_numeric": 398,
+            "dial_code": 7
+        },
+        {
+            "name": "Kenya",
+            "code_2char": "KE",
+            "code_3char": "KEN",
+            "code_numeric": 404,
+            "dial_code": 254
+        },
+        {
+            "name": "Kiribati",
+            "code_2char": "KI",
+            "code_3char": "KIR",
+            "code_numeric": 296,
+            "dial_code": 686
+        },
+        {
+            "name": "Korea, Republic of",
+            "code_2char": "KR",
+            "code_3char": "KOR",
+            "code_numeric": 410,
+            "dial_code": 82
+        },
+        {
+            "name": "Korea, Democratic People's Republic of",
+            "code_2char": "KP",
+            "code_3char": "PRK",
+            "code_numeric": 408,
+            "dial_code": 850
+        },
+        {
+            "name": "Kuwait",
+            "code_2char": "KW",
+            "code_3char": "KWT",
+            "code_numeric": 414,
+            "dial_code": 965
+        },
+        {
+            "name": "Kyrgyzstan",
+            "code_2char": "KG",
+            "code_3char": "KGZ",
+            "code_numeric": 417,
+            "dial_code": 996
+        },
+        {
+            "name": "Laos",
+            "code_2char": "LA",
+            "code_3char": "LAO",
+            "code_numeric": 418,
+            "dial_code": 856
+        },
+        {
+            "name": "Latvia",
+            "code_2char": "LV",
+            "code_3char": "LVA",
+            "code_numeric": 428,
+            "dial_code": 371
+        },
+        {
+            "name": "Lebanon",
+            "code_2char": "LB",
+            "code_3char": "LBN",
+            "code_numeric": 422,
+            "dial_code": 961
+        },
+        {
+            "name": "Lesotho",
+            "code_2char": "LS",
+            "code_3char": "LSO",
+            "code_numeric": 426,
+            "dial_code": 266
+        },
+        {
+            "name": "Liberia",
+            "code_2char": "LR",
+            "code_3char": "LBR",
+            "code_numeric": 430,
+            "dial_code": 231
+        },
+        {
+            "name": "Libya",
+            "code_2char": "LY",
+            "code_3char": "LBY",
+            "code_numeric": 434,
+            "dial_code": 218
+        },
+        {
+            "name": "Liechtenstein",
+            "code_2char": "LI",
+            "code_3char": "LIE",
+            "code_numeric": 438,
+            "dial_code": 423
+        },
+        {
+            "name": "Lithuania",
+            "code_2char": "LT",
+            "code_3char": "LTU",
+            "code_numeric": 440,
+            "dial_code": 370
+        },
+        {
+            "name": "Luxembourg",
+            "code_2char": "LU",
+            "code_3char": "LUX",
+            "code_numeric": 442,
+            "dial_code": 352
+        },
+        {
+            "name": "Macau",
+            "code_2char": "MO",
+            "code_3char": "MAC",
+            "code_numeric": 446,
+            "dial_code": 853
+        },
+        {
+            "name": "North Macedonia",
+            "code_2char": "MK",
+            "code_3char": "MKD",
+            "code_numeric": 807,
+            "dial_code": 389
+        },
+        {
+            "name": "Madagascar",
+            "code_2char": "MG",
+            "code_3char": "MDG",
+            "code_numeric": 450,
+            "dial_code": 261
+        },
+        {
+            "name": "Malawi",
+            "code_2char": "MW",
+            "code_3char": "MWI",
+            "code_numeric": 454,
+            "dial_code": 265
+        },
+        {
+            "name": "Malaysia",
+            "code_2char": "MY",
+            "code_3char": "MYS",
+            "code_numeric": 458,
+            "dial_code": 60
+        },
+        {
+            "name": "Maldives",
+            "code_2char": "MV",
+            "code_3char": "MDV",
+            "code_numeric": 462,
+            "dial_code": 960
+        },
+        {
+            "name": "Mali",
+            "code_2char": "ML",
+            "code_3char": "MLI",
+            "code_numeric": 466,
+            "dial_code": 223
+        },
+        {
+            "name": "Malta",
+            "code_2char": "MT",
+            "code_3char": "MLT",
+            "code_numeric": 470,
+            "dial_code": 356
+        },
+        {
+            "name": "Marshall Islands",
+            "code_2char": "MH",
+            "code_3char": "MHL",
+            "code_numeric": 584,
+            "dial_code": 692
+        },
+        {
+            "name": "Martinique",
+            "code_2char": "MQ",
+            "code_3char": "MTQ",
+            "code_numeric": 474,
+            "dial_code": 596
+        },
+        {
+            "name": "Mauritania",
+            "code_2char": "MR",
+            "code_3char": "MRT",
+            "code_numeric": 478,
+            "dial_code": 222
+        },
+        {
+            "name": "Mauritius",
+            "code_2char": "MU",
+            "code_3char": "MUS",
+            "code_numeric": 480,
+            "dial_code": 230
+        },
+        {
+            "name": "Mayotte",
+            "code_2char": "YT",
+            "code_3char": "MYT",
+            "code_numeric": 175,
+            "dial_code": 262
+        },
+        {
+        "name": "Mexico",
+        "code_2char": "MX",
+        "code_3char": "MEX",
+        "code_numeric": 484,
+        "dial_code": 52
+    },
+    {
+        "name": "Micronesia",
+        "code_2char": "FM",
+        "code_3char": "FSM",
+        "code_numeric": 583,
+        "dial_code": 691
+    },
+    {
+        "name": "Moldova, Republic of",
+        "code_2char": "MD",
+        "code_3char": "MDA",
+        "code_numeric": 498,
+        "dial_code": 373
+    },
+    {
+        "name": "Monaco",
+        "code_2char": "MC",
+        "code_3char": "MCO",
+        "code_numeric": 492,
+        "dial_code": 377
+    },
+    {
+        "name": "Mongolia",
+        "code_2char": "MN",
+        "code_3char": "MNG",
+        "code_numeric": 496,
+        "dial_code": 976
+    },
+    {
+        "name": "Montenegro",
+        "code_2char": "ME",
+        "code_3char": "MNE",
+        "code_numeric": 499,
+        "dial_code": 382
+    },
+    {
+        "name": "Montserrat",
+        "code_2char": "MS",
+        "code_3char": "MSR",
+        "code_numeric": 500,
+        "dial_code": 1
+    },
+    {
+        "name": "Morocco",
+        "code_2char": "MA",
+        "code_3char": "MAR",
+        "code_numeric": 504,
+        "dial_code": 212
+    },
+    {
+        "name": "Mozambique",
+        "code_2char": "MZ",
+        "code_3char": "MOZ",
+        "code_numeric": 508,
+        "dial_code": 258
+    },
+    {
+        "name": "Myanmar",
+        "code_2char": "MM",
+        "code_3char": "MMR",
+        "code_numeric": 104,
+        "dial_code": 95
+    },
+    {
+        "name": "Namibia",
+        "code_2char": "NA",
+        "code_3char": "NAM",
+        "code_numeric": 516,
+        "dial_code": 264
+    },
+    {
+        "name": "Nauru",
+        "code_2char": "NR",
+        "code_3char": "NRU",
+        "code_numeric": 520,
+        "dial_code": 674
+    },
+    {
+        "name": "Nepal",
+        "code_2char": "NP",
+        "code_3char": "NPL",
+        "code_numeric": 524,
+        "dial_code": 977
+    },
+    {
+        "name": "Netherlands",
+        "code_2char": "NL",
+        "code_3char": "NLD",
+        "code_numeric": 528,
+        "dial_code": 31
+    },
+    {
+        "name": "New Caledonia",
+        "code_2char": "NC",
+        "code_3char": "NCL",
+        "code_numeric": 540,
+        "dial_code": 687
+    },
+    {
+        "name": "New Zealand",
+        "code_2char": "NZ",
+        "code_3char": "NZL",
+        "code_numeric": 554,
+        "dial_code": 64
+    },
+    {
+        "name": "Nicaragua",
+        "code_2char": "NI",
+        "code_3char": "NIC",
+        "code_numeric": 558,
+        "dial_code": 505
+    },
+    {
+        "name": "Niger",
+        "code_2char": "NE",
+        "code_3char": "NER",
+        "code_numeric": 562,
+        "dial_code": 227
+    },
+    {
+        "name": "Nigeria",
+        "code_2char": "NG",
+        "code_3char": "NGA",
+        "code_numeric": 566,
+        "dial_code": 234
+    },
+    {
+        "name": "Niue",
+        "code_2char": "NU",
+        "code_3char": "NIU",
+        "code_numeric": 570,
+        "dial_code": 683
+    },
+    {
+        "name": "Norfolk Island",
+        "code_2char": "NF",
+        "code_3char": "NFK",
+        "code_numeric": 574,
+        "dial_code": 672
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "code_2char": "MP",
+        "code_3char": "MNP",
+        "code_numeric": 580,
+        "dial_code": 670
+    },
+    {
+        "name": "Norway",
+        "code_2char": "NO",
+        "code_3char": "NOR",
+        "code_numeric": 578,
+        "dial_code": 47
+    },
+    {
+        "name": "Oman",
+        "code_2char": "OM",
+        "code_3char": "OMN",
+        "code_numeric": 512,
+        "dial_code": 968
+    },
+    {
+        "name": "Pakistan",
+        "code_2char": "PK",
+        "code_3char": "PAK",
+        "code_numeric": 586,
+        "dial_code": 92
+    },
+    {
+        "name": "Palau",
+        "code_2char": "PW",
+        "code_3char": "PLW",
+        "code_numeric": 585,
+        "dial_code": 680
+    },
+    {
+        "name": "Palestine, State of",
+        "code_2char": "PS",
+        "code_3char": "PSE",
+        "code_numeric": 275,
+        "dial_code": 970
+    },
+    {
+        "name": "Panama",
+        "code_2char": "PA",
+        "code_3char": "PAN",
+        "code_numeric": 591,
+        "dial_code": 507
+    },
+    {
+        "name": "Papua New Guinea",
+        "code_2char": "PG",
+        "code_3char": "PNG",
+        "code_numeric": 598,
+        "dial_code": 675
+    },
+    {
+        "name": "Paraguay",
+        "code_2char": "PY",
+        "code_3char": "PRY",
+        "code_numeric": 600,
+        "dial_code": 595
+    },
+    {
+        "name": "Peru",
+        "code_2char": "PE",
+        "code_3char": "PER",
+        "code_numeric": 604,
+        "dial_code": 51
+    },
+    {
+        "name": "Philippines",
+        "code_2char": "PH",
+        "code_3char": "PHL",
+        "code_numeric": 608,
+        "dial_code": 63
+    },
+    {
+        "name": "Pitcairn",
+        "code_2char": "PN",
+        "code_3char": "PCN",
+        "code_numeric": 612,
+        "dial_code": null
+    },
+    {
+        "name": "Poland",
+        "code_2char": "PL",
+        "code_3char": "POL",
+        "code_numeric": 616,
+        "dial_code": 48
+    },
+    {
+        "name": "Portugal",
+        "code_2char": "PT",
+        "code_3char": "PRT",
+        "code_numeric": 620,
+        "dial_code": 351
+    },
+    {
+        "name": "Puerto Rico",
+        "code_2char": "PR",
+        "code_3char": "PRI",
+        "code_numeric": 630,
+        "dial_code": 787
+    },
+    {
+        "name": "Qatar",
+        "code_2char": "QA",
+        "code_3char": "QAT",
+        "code_numeric": 634,
+        "dial_code": 974
+    },
+    {
+        "name": "R\u00e9union",
+        "code_2char": "RE",
+        "code_3char": "REU",
+        "code_numeric": 638,
+        "dial_code": null
+    },
+    {
+        "name": "Romania",
+        "code_2char": "RO",
+        "code_3char": "ROU",
+        "code_numeric": 642,
+        "dial_code": 40
+    },
+    {
+        "name": "Russian Federation",
+        "code_2char": "RU",
+        "code_3char": "RUS",
+        "code_numeric": 643,
+        "dial_code": null
+    },
+    {
+        "name": "Rwanda",
+        "code_2char": "RW",
+        "code_3char": "RWA",
+        "code_numeric": 646,
+        "dial_code": 250
+    }
+    ]
+}
+
